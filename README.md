@@ -23,4 +23,4 @@ Tugas dibimbing github
 ![alt text](https://github.com/Raihanmufadhdhol/dibimbing-belajar-github/blob/main/pict/Screenshot%202024-11-23%20142738.png?raw=true)
 
 7. Yang terakhir lakukan Pull remote master/main branch ke local master/main branch
-![alt text](?raw=true)
+![alt text](https://github.com/Raihanmufadhdhol/dibimbing-belajar-github/blob/main/pict/Screenshot%202024-11-23%20142959.png?raw=true)
